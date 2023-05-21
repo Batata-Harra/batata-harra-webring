@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jockey+One&display=swap");
 :root {
   font-size: calc(12px + 0.3vw);
 }
@@ -20,7 +20,7 @@ p {
   row-gap: 1.5rem;
   min-height: 100vh;
   height: 100%;
-  font: 1.2rem/1.53 "Luckiest Guy", cursive;
+  font: 1.2rem/1.53 "Jockey One", cursive;
   font-feature-settings: "case", "calt", "tnum", "ss01", "zero";
   text-rendering: optimizeLegibility;
   color: #e3d8c2;
