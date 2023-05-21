@@ -53,22 +53,20 @@ p {
 
     &__span--flame {
       position: relative;
-      font-size: 1em;
+      font-size: 2em;
       font-weight: 400;
       letter-spacing: -2px;
-      animation: flame 10s infinite;
-      font-style: italic;
       z-index: 1;
-      line-height: 40px;
+      line-height: 1em;
     }
 
     &__span {
       color: $color;
-      font-size: 1.25em;
+      font-size: 1.8em;
       font-weight: 400;
+      line-height: 1em;
       letter-spacing: -2px;
-      font-style: italic;
-      line-height: 36px;
+      animation: flame 10s infinite;
     }
     &__flame__container {
       width: 100%;
