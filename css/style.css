@@ -41,22 +41,20 @@ p {
   width: 100%;
 }
 .flame__container__text__span--flame {
-  position: relative;
-  font-size: 1em;
-  font-weight: 400;
-  letter-spacing: -2px;
-  animation: flame 10s infinite;
-  font-style: italic;
-  z-index: 1;
-  line-height: 40px;
+      position: relative;
+      font-size: 2em;
+      font-weight: 400;
+      letter-spacing: -2px;
+      z-index: 1;
+      line-height: 1em;
 }
 .flame__container__text__span {
   color: #e3d8c2;
-  font-size: 1.25em;
+  font-size: 1.8em;
   font-weight: 400;
+  line-height: 1em;
   letter-spacing: -2px;
-  font-style: italic;
-  line-height: 36px;
+  animation: flame 10s infinite;
 }
 .flame__container__text__flame__container {
   width: 100%;
