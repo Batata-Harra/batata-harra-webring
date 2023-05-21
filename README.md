@@ -1,5 +1,5 @@
-# 🥔 Stage Zero Webring 🥔
-Stage Zero members are strong believers of the learn by teaching concepts.
+# 🥔 Batata Harra Webring 🥔
+Batata Harra members are strong believers of the learn by teaching concepts.
 Our aim is to help to continuously lift each other up and spread knowledge.
 
 ## What's a Webring?
@@ -17,4 +17,4 @@ Here are the instructions on how to join our awesome webring:
 And don't forget to import it in your `<head>` tag `<script src="components/webringComponent.js" type="text/javascript" defer></script>` 
 3. Create a pull request to webring.json with your own configuration.
 
-Hurray! you're now a proud Stage Zero member 😎
+Hurray! you're now a proud Batata Harra member 😎
